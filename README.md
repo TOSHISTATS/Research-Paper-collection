@@ -14,3 +14,5 @@ This is my collection about Deep reinforcement learning
       
 4. A Deep Reinforcement Learning Chatbot
       https://arxiv.org/abs/1709.02349
+
+5. Playing Atari with Deep Reinforcement Learning https://arxiv.org/abs/1312.5602

@@ -21,6 +21,6 @@ This is my collection about Deep reinforcement learning
 
 
 
-These lecures are strongly recommended!
+These lectures are strongly recommended!
 
 1. UCL Course on RL by David Silver  http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html

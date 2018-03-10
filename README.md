@@ -16,3 +16,11 @@ This is my collection about Deep reinforcement learning
       https://arxiv.org/abs/1709.02349
 
 5. Playing Atari with Deep Reinforcement Learning https://arxiv.org/abs/1312.5602
+
+
+
+
+
+These lecures are strongly recommended!
+
+1. UCL Course on RL by David Silver  http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html

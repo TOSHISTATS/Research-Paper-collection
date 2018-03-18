@@ -7,20 +7,23 @@ This is my collection about Deep reinforcement learning
 
 
 2. Asynchronous Methods for Deep Reinforcement Learning
-      https://arxiv.org/abs/1602.01783
+      https://arxiv.org/abs/1602.0178
+
+3. Playing Atari with Deep Reinforcement Learning https://arxiv.org/abs/1312.5602
   
 
-3. AN ACTOR-CRITIC ALGORITHM FOR SEQUENCE PREDICTION  https://arxiv.org/abs/1607.07086
+4. AN ACTOR-CRITIC ALGORITHM FOR SEQUENCE PREDICTION  https://arxiv.org/abs/1607.07086
       
-4. A Deep Reinforcement Learning Chatbot
+5. A Deep Reinforcement Learning Chatbot
       https://arxiv.org/abs/1709.02349
 
-5. Playing Atari with Deep Reinforcement Learning https://arxiv.org/abs/1312.5602
 
 
 
 
 
-These lectures are strongly recommended!
+These lecture-video are strongly recommended!
 
 1. UCL Course on RL by David Silver  http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
+2. Deep RL Bootcamp by Berkeley CA   https://sites.google.com/view/deep-rl-bootcamp/lectures

@@ -10,11 +10,13 @@ This is my collection about Deep reinforcement learning
       https://arxiv.org/abs/1602.01783
 
 3. Playing Atari with Deep Reinforcement Learning https://arxiv.org/abs/1312.5602
+
+4. OpenAI Gym https://arxiv.org/abs/1606.01540
   
 
-4. AN ACTOR-CRITIC ALGORITHM FOR SEQUENCE PREDICTION  https://arxiv.org/abs/1607.07086
+5. AN ACTOR-CRITIC ALGORITHM FOR SEQUENCE PREDICTION  https://arxiv.org/abs/1607.07086
       
-5. A Deep Reinforcement Learning Chatbot
+6. A Deep Reinforcement Learning Chatbot
       https://arxiv.org/abs/1709.02349
 
 

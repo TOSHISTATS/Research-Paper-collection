@@ -7,7 +7,7 @@ This is my collection about Deep reinforcement learning
 
 
 2. Asynchronous Methods for Deep Reinforcement Learning
-      https://arxiv.org/abs/1602.0178
+      https://arxiv.org/abs/1602.01783
 
 3. Playing Atari with Deep Reinforcement Learning https://arxiv.org/abs/1312.5602
   

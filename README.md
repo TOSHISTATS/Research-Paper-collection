@@ -45,3 +45,6 @@ This is my collection about attention mechanizm
       
 5. Image Transformer
       https://arxiv.org/abs/1802.05751
+      
+6. Learning Visual Question Answering by Bootstrapping Hard Attention
+      https://arxiv.org/abs/1808.00300

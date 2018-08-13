@@ -1,6 +1,6 @@
 # Research-Paper-collection
 
-This is my collection about Deep learning
+This is my collection about Deep reinforcement learning
 
 1. Mastering the game of Go without human knowledge
       https://deepmind.com/blog/alphago-zero-learning-scratch/

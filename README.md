@@ -48,3 +48,6 @@ This is my collection about attention mechanizm
       
 6. Learning Visual Question Answering by Bootstrapping Hard Attention
       https://arxiv.org/abs/1808.00300
+      
+7. Self-Attention Generative Adversarial Networks
+      https://arxiv.org/abs/1805.08318

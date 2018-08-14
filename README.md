@@ -54,3 +54,6 @@ This is my collection about attention mechanizm
       
 8. Residual Attention Network for Image Classification
       https://arxiv.org/abs/1704.06904
+      
+9. Pose-Robust Face Recognition via Deep Residual Equivariant Mapping
+      https://arxiv.org/abs/1803.00839

@@ -46,14 +46,17 @@ This is my collection about attention mechanizm
 5. Image Transformer
       https://arxiv.org/abs/1802.05751
       
-6. Learning Visual Question Answering by Bootstrapping Hard Attention
+6. Universal Transformers
+      https://arxiv.org/abs/1807.03819
+      
+7. Learning Visual Question Answering by Bootstrapping Hard Attention
       https://arxiv.org/abs/1808.00300
       
-7. Self-Attention Generative Adversarial Networks
+8. Self-Attention Generative Adversarial Networks
       https://arxiv.org/abs/1805.08318
       
-8. Residual Attention Network for Image Classification
+9. Residual Attention Network for Image Classification
       https://arxiv.org/abs/1704.06904
       
-9. Pose-Robust Face Recognition via Deep Residual Equivariant Mapping
+10. Pose-Robust Face Recognition via Deep Residual Equivariant Mapping
       https://arxiv.org/abs/1803.00839

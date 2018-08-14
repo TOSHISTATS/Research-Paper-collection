@@ -31,8 +31,8 @@ These lecture-video are strongly recommended!
 
 This is my collection about attention mechanizm
 
-1. Show and Tell: A Neural Image Caption Generator
-      https://arxiv.org/abs/1411.4555
+1. FEED-FORWARD NETWORKS WITH ATTENTION CAN SOLVE SOME LONG-TERM MEMORY PROBLEMS
+      https://arxiv.org/abs/1512.08756
      
 2. Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
       https://arxiv.org/abs/1502.03044

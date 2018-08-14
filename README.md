@@ -51,3 +51,6 @@ This is my collection about attention mechanizm
       
 7. Self-Attention Generative Adversarial Networks
       https://arxiv.org/abs/1805.08318
+      
+8. Residual Attention Network for Image Classification
+      https://arxiv.org/abs/1704.06904
